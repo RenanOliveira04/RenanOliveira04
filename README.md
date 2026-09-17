@@ -4,7 +4,7 @@
 
 - 🤔 Sou um Software Engineer com sólida experiência em desenvolvimento backend e engenharia de dados. Focado em Python, Databricks, AWS, SQL e Pyspark. Tenho habilidade em projetos de alta performance e escalabilidade, com foco em qualidade e segurança. Busco evoluir no desenvolvimento de pipelines escaláveis.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas na Uninassau (Embarque Digital).
-- 💼 Hoje atuo como Engenheiro de Dados  azure/Databricks mas já Trabalhei como Dev Back-End (Python, Django & FastAPI) e DevOps Engineer (AWS)
+- 💼 Hoje atuo como Engenheiro de Dados Azure/Databricks mas já Trabalhei como Dev Back-End (Python, Django & FastAPI) e DevOps Engineer (AWS)
 - 🌱 Aprendendo mais sobre Airflow, DBT & Engenharia de Dados.
 
 ## Minhas Skills
